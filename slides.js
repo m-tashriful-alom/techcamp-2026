@@ -11,7 +11,7 @@ var SLIDES_HTML = `
 <!-- 01 — TITLE -->
 <section class="slide title-slide">
   <div class="badge">POLITECNICO DI MILANO · TECHCAMP 2026</div>
-  <h1 class="headline">Intelligent &amp;<br><span class="accent">Autonomous Driving</span></h1>
+  <h1 class="headline">Intelligent &amp;<br><span class="accent">Autonomous Vehicles</span></h1>
   <p class="lede">A comprehensive look into the core software blocks, algorithms, and real-world implementations studied during our 4-day intensive camp.</p>
   <div class="title-footer">
     <div>
